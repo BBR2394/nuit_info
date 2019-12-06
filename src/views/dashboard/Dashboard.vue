@@ -67,6 +67,21 @@ export default {
                           info:'valider'
                       }
                   ]
+              },
+              {
+                  title:'Logement',
+                  description:"Les infos a propos du logement",
+                  steps:[
+                      {
+                          info:'dossier location'
+                      },
+                      {
+                          info:'traitement'
+                      },
+                      {
+                          info:'valider'
+                      }
+                  ]
               }
           ]
       }
